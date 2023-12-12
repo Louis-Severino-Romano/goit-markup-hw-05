@@ -59,6 +59,13 @@ body {
   position: relative;
   color:#404bbf;
 }
+/* hw5 */
+.nav-link-list::after{
+  content: '';
+  position: relative;
+  left:0;
+  bottom: 1px;
+}
 
 
 .nav-link-list:hover {
