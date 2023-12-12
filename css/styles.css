@@ -55,8 +55,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   padding: 24px 0 24px;
-  
-  /* position: relative; */
+/* hw5   */
+  position: relative;
+  color:#404bbf;
 }
 
 
