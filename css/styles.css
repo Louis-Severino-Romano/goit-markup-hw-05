@@ -55,6 +55,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   padding: 24px 0 24px;
+  /* hw5 */
+  position: relative;
 }
 
 .nav-link-list:hover {
@@ -445,6 +447,6 @@ margin-bottom: 16px;
   margin-bottom: 16px;
 }
 /* HW5 */
-.nav-list-item>.nav-link-list .link{
+/* .nav-list-item>.nav-link-list .link{
   position: relative;
-}
+} */
