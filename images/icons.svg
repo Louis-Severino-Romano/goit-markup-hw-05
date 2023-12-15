@@ -91,7 +91,7 @@
   </defs>
 </symbol>
 
-<symbol xmlns="http://www.w3.org/2000/svg" width="104" height="56" viewBox="0 0 104 56" fill="none" id="client-1">
+<symbol xmlns="http://www.w3.org/2000/svg" width="104" height="56" viewBox="0 0 104 56"  id="client-1">
   <path fill-rule="evenodd" clip-rule="evenodd" d="M38 7L45.0078 13.6764L32 13.6687V46.0609H66V33.6758L73
   40.3448V7H38ZM65.6924 32.8922L45.8226 13.962H65.6924V32.8922ZM59.5231
   41.3227H37.3801V19.5373H38.9453V39.8475H59.5231V41.3227ZM41.7959 52.0611L40.9707 50.3643H40.2896L41.4858
