@@ -506,7 +506,7 @@ margin-bottom: 16px;
 
 .mod-button-close:hover,
 .mod-button-close:focus {
-  background-color:  #404bbf;
+  background-color:#404bbf;
   border: none;
 }
 
@@ -516,5 +516,5 @@ margin-bottom: 16px;
 
 .mod-button-close:hover,
 .mod-button-close:focus {
-  fill: #ffffff;
+  fill:#ffffff;
 }
