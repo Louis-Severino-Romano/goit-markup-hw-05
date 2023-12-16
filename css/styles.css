@@ -528,7 +528,7 @@ body {
 .port{
   transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.port:hover{
+.port:hover .card-desc{
   transform: translateY(0%);
 }
 .card-image{
